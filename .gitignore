@@ -33,7 +33,7 @@ build/
 ### VS Code ###
 .vscode/
 /shelf/
-/workspace.xml
+/.idea/workspace.xml
 # Datasource local storage ignored files
 /../../../../../:\Projects\Java\java-concepts-explore\.idea/dataSources/
 /dataSources.local.xml
